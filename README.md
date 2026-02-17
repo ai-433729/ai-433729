@@ -14,7 +14,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-1AA7ED?logo=netlify&logoColor=white)](https://sh1ragami-portfolio.netlify.app)
 [![Qiita](https://img.shields.io/badge/Qiita-55C500?logo=qiita&logoColor=white)](https://qiita.com/Sh1ragami)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,jquery,wordpress,php,mysql,github,figma,ai,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,jquery,wordpress,php,mysql,github,figma,ai,ps&perline=5)](https://skillicons.dev)
 
 
 #### My Portfolio
