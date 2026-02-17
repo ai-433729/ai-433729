@@ -12,7 +12,7 @@
 - 💬 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1AA7ED?logo=netlify&logoColor=white)](https://aa8692919.stars.ne.jp/ai_portfolio/)
-[![Qiita](https://img.shields.io/badge/Qiita-55C500?logo=qiita&logoColor=white)](https://codepen.io/your-work)
+[![Codepen](https://img.shields.io/badge/Qiita-55C500?logo=qiita&logoColor=white)](https://codepen.io/your-work)
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,jquery,wordpress,php,mysql,github,figma,ai,ps&perline=5)](https://skillicons.dev)
 
