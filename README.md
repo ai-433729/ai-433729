@@ -19,20 +19,18 @@
 
 #### Top Repositories
 
+<br />
+<br />
+
+<a href="">
+  <img align="right" alt="" width="21px" src="" />
+</a>
+<a href="">
+  <img align="right" alt="" width="20px" src="" />
+</a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?ai-433729={ai-433729}" />
 </a>
 
-<br />
-<br />
-
-<a href="">
-  <img align="right" alt="" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="">
-  <img align="right" alt="" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+[![ai-433729's GitHub stats](https://github-readme-stats.vercel.app/api?ai-433729={ai-433729}&show_icons=true)](https://github.com/ai-433729/github-readme-stats)
