@@ -16,21 +16,3 @@
 [![Codepen](https://img.shields.io/badge/MyCodepen-bdb8f7)](https://codepen.io/your-work)
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,jquery,wordpress,php,mysql,github,figma,ai,ps&perline=20)](https://skillicons.dev)
-
-
-#### My Portfolio
-
-<br />
-<br />
-
-<a href="">
-  <img align="right" alt="" width="21px" src="" />
-</a>
-<a href="">
-  <img align="right" alt="" width="20px" src="" />
-</a>
-
-<a href="https://github.com/ai-433729/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?ai-433729={ai-433729}" />
-</a>
-
