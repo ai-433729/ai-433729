@@ -3,9 +3,9 @@
 
 **About me**
 
-- My Skill→HTML/CSS/Sass/Javascript/jQuery/PHP/WordPress/MySQL/Figma/Illustlator/Photoshop
+- My Skill→HTML/CSS/Sass/Javascript/jQuery/PHP/WordPress/MySQL/Figma/Illustlator/Photoshop☑️
 
-- 📈 
+- I want to be a FrontendEngineer💭
 
 - ❤️ 
 
